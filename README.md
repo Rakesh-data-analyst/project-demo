@@ -1,4 +1,4 @@
 # project-demo
 This is my first Repository
 <br>
-Author - Rakesh majhi
+Author - Rakesh Majhi
